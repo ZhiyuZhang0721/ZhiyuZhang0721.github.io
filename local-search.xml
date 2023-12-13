@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>PromptEngineering对日常生活的改变</title>
+    <link href="/2023/12/13/PromptEngineering%E5%AF%B9%E7%94%9F%E6%B4%BB%E5%AF%B9%E6%94%B9%E5%8F%98/"/>
+    <url>/2023/12/13/PromptEngineering%E5%AF%B9%E7%94%9F%E6%B4%BB%E5%AF%B9%E6%94%B9%E5%8F%98/</url>
+    
+    <content type="html"><![CDATA[<h1 id="欢迎来到-StackEdit-中文版！"><a href="#欢迎来到-StackEdit-中文版！" class="headerlink" title="欢迎来到 StackEdit 中文版！"></a>欢迎来到 StackEdit 中文版！</h1><p>你好！我是你在 <strong>StackEdit中文版</strong> 中的第一个 Markdown 文件。如果你想了解 StackEdit中文版，可以阅读此文章。如果你想玩 Markdown，你也可以编辑此文章。另外，您可以通过打开导航栏左边的<strong>文件资源管理器</strong>来创建新文件。</p><hr><h2 id=""><a href="#" class="headerlink" title="~~"></a>~~</h2><ul><li><input disabled="" type="checkbox"> </li></ul><blockquote><p>&#96;</p><table><thead><tr><th>加粗文本</th><th></th></tr></thead><tbody><tr><td></td><td></td></tr><tr><td>&#96;</td><td></td></tr></tbody></table></blockquote><p>~~</p><hr><h1 id="文件"><a href="#文件" class="headerlink" title="文件"></a>文件</h1><p>StackEdit中文版 将您的文件存储在您的浏览器中，这意味着您的所有文件都会自动保存在本地并且可以<strong>离线访问！</strong></p><h2 id="创建文件和文件夹"><a href="#创建文件和文件夹" class="headerlink" title="创建文件和文件夹"></a>创建文件和文件夹</h2><p>使用导航栏左边的文件夹图标可以访问文件资源管理器。您可以通过单击文件资源管理器中的 <strong>创建文件</strong> 图标来创建新文件。您还可以通过单击 <strong>创建文件夹</strong> 图标来创建文件夹。<img src="/imgs/2023-12-13/V1SKwjNJHLhJmMcG.jpeg" alt="输入图片说明"></p><h2 id="切换到另一个文件"><a href="#切换到另一个文件" class="headerlink" title="切换到另一个文件"></a>切换到另一个文件</h2><p>您的所有文件和文件夹在文件资源管理器中都显示为树。您可以通过单击树中的文件从一个文件切换到另一个文件。</p><h2 id="重命名文件"><a href="#重命名文件" class="headerlink" title="重命名文件"></a>重命名文件</h2><p>您可以通过单击导航栏中的文件名或单击文件资源管理器中的<strong>重命名</strong>图标来重命名当前文件。</p><h2 id="搜索文件"><a href="#搜索文件" class="headerlink" title="搜索文件"></a>搜索文件</h2><p>您可以通过单击文件资源管理器中的<strong>搜索文件</strong>图标来通过关键字在整个文档空间中搜索文件。</p><h2 id="删除一个文件"><a href="#删除一个文件" class="headerlink" title="删除一个文件"></a>删除一个文件</h2><p>您可以通过单击文件资源管理器中的 <strong>删除</strong> 图标来删除当前文件。该文件将被移至 <strong>回收站</strong> 文件夹并在 7 天不活动后自动删除。</p><h2 id="导出文件"><a href="#导出文件" class="headerlink" title="导出文件"></a>导出文件</h2><p>您可以通过单击菜单中的 <strong>导入&#x2F;导出</strong> 来导出当前文件。您可以选择将文件导出为纯 Markdown、使用 Handlebars 模板的 HTML 或 PDF。</p><h1 id="同步"><a href="#同步" class="headerlink" title="同步"></a>同步</h1><p>同步是 StackEdit中文版 的最大特点之一。它使您可以将文档空间中的任何文件与存储在<strong>Gitee</strong> 和 <strong>GitHub</strong> 账号中的其他文件同步。这使您可以继续在其他设备上写作，与您共享文件的人协作，轻松集成到您的工作流程中……同步机制在后台每分钟触发一次，下载、合并和上传文件修改。</p><p>有两种类型的同步，它们可以相互补充：</p><ul><li><p>文档空间同步将自动同步您的所有文件、文件夹和设置。这将允许您在任何其他设备上获取您的文档空间。</p><blockquote><p>要开始同步您的文档空间，只需在菜单中使用 Gitee 登录。</p></blockquote></li><li><p>文件同步将保持文档空间的一个文件与<strong>Gitee</strong>或<strong>GitHub</strong>中的一个或多个文件同步。</p><blockquote><p>在开始同步文件之前，您必须在<strong>同步</strong>子菜单中链接一个账号。</p></blockquote></li></ul><h2 id="打开一个文件"><a href="#打开一个文件" class="headerlink" title="打开一个文件"></a>打开一个文件</h2><p>您可以通过打开 <strong>同步</strong> 子菜单并单击 <strong>从…打开</strong> 从<strong>Gitee</strong> 或 <strong>GitHub</strong> 打开文件。在文档空间中打开后，文件中的任何修改都将自动同步。</p><h2 id="保存文件"><a href="#保存文件" class="headerlink" title="保存文件"></a>保存文件</h2><p>您可以通过打开 <strong>同步</strong> 子菜单并单击 <strong>在…保存</strong> 将文档空间的任何文件保存到<strong>Gitee</strong> 或 <strong>GitHub</strong>。即使文档空间中的文件已经同步，您也可以将其保存到另一个位置。 StackEdit中文版 可以将一个文件与多个位置和账号同步。</p><h2 id="同步文件"><a href="#同步文件" class="headerlink" title="同步文件"></a>同步文件</h2><p>一旦您的文件链接到同步位置，StackEdit中文版 将通过下载&#x2F;上传任何修改来定期同步它。如有必要，将执行合并并解决冲突。</p><p>如果您刚刚修改了文件并且想要强制同步，请单击导航栏中的 <strong>立即同步</strong> 按钮。</p><blockquote><p><strong>注意：</strong> 如果您没有要同步的文件，<strong>立即同步</strong>按钮将被禁用。</p></blockquote><h2 id="管理文件同步"><a href="#管理文件同步" class="headerlink" title="管理文件同步"></a>管理文件同步</h2><p>由于一个文件可以与多个位置同步，您可以通过单击<strong>同步</strong>子菜单中的<strong>文件同步</strong>列出和管理同步位置。这允许您列出和删除链接到您的文件的同步位置。</p><h1 id="发布"><a href="#发布" class="headerlink" title="发布"></a>发布</h1><p>在 StackEdit中文版 中发布使您可以轻松地在线发布文件。对文件感到满意后，您可以将其发布到不同的托管平台，例如 <strong>Blogger</strong>、<strong>Gitee</strong>、<strong>Gist</strong>、<strong>GitHub</strong>、<strong>WordPress</strong> 和 <strong>Zendesk</strong>。使用 <a href="http://handlebarsjs.com/">Handlebars 模板</a>，您可以完全控制导出的内容。</p><blockquote><p>在开始发布之前，您必须在<strong>发布</strong>子菜单中链接一个账号。</p></blockquote><h2 id="发布文件"><a href="#发布文件" class="headerlink" title="发布文件"></a>发布文件</h2><p>您可以通过打开 <strong>发布</strong> 子菜单并单击 <strong>发布到</strong> 来发布您的文件。对于某些位置，您可以选择以下格式：</p><ul><li>Markdown：在可以解释的网站上发布 Markdown 文本（例如<strong>GitHub</strong>），</li><li>HTML：通过 Handlebars 模板发布转换为 HTML 的文件（例如在博客上）。</li></ul><h2 id="更新发布"><a href="#更新发布" class="headerlink" title="更新发布"></a>更新发布</h2><p>发布后，StackEdit中文版 会将您的文件链接到该发布，这使您可以轻松地重新发布它。一旦您修改了文件并想要更新您的发布，请单击导航栏中的<strong>立即发布</strong>按钮。</p><blockquote><p><strong>注意：</strong> 如果您没有要同步的文件，<strong>立即同步</strong>按钮将被禁用。</p></blockquote><h2 id="管理文件同步-1"><a href="#管理文件同步-1" class="headerlink" title="管理文件同步"></a>管理文件同步</h2><p>由于一个文件可以与多个位置同步，您可以通过单击<strong>同步</strong>子菜单中的<strong>文件同步</strong>列出和管理同步位置。这允许您列出和删除链接到您的文件的同步位置。</p><h1 id="Markdown扩展"><a href="#Markdown扩展" class="headerlink" title="Markdown扩展"></a>Markdown扩展</h1><p>StackEdit中文版 通过添加额外的 <strong>Markdown扩展</strong> 扩展了标准 Markdown 语法，为您提供了一些不错的功能。</p><blockquote><p><strong>提示：</strong> 您可以在 <strong>文件属性</strong> 对话框中禁用任何 <strong>Markdown 扩展名</strong>。</p></blockquote><h2 id="SmartyPants"><a href="#SmartyPants" class="headerlink" title="SmartyPants"></a>SmartyPants</h2><p>SmartyPants 将 ASCII 标点字符转换为“智能”印刷标点 HTML 实体。例如：</p><table><thead><tr><th></th><th>ASCII</th><th>HTML</th></tr></thead><tbody><tr><td>单反引号</td><td><code>&#39;这不好玩吗？&#39;</code></td><td>‘这不好玩吗？’</td></tr><tr><td>引用</td><td><code>“这不好玩吗？”</code></td><td>“这不好玩吗？”</td></tr><tr><td>破折号</td><td><code>-- 是破折号，--- 是破折号</code></td><td>– 是破折号，— 是破折号</td></tr></tbody></table><h2 id="KaTeX"><a href="#KaTeX" class="headerlink" title="KaTeX"></a>KaTeX</h2><p>您可以使用 <a href="https://khan.github.io/KaTeX/">KaTeX</a> 渲染 LaTeX 数学表达式：</p><p>满足 $\Gamma(n) &#x3D; (n-1)!\quad\forall n\in\mathbb N$ 的 <em>Gamma 函数</em> 是通过欧拉积分</p><p>$$<br>\Gamma(z) &#x3D; \int_0^\infty t^{z-1}e^{-t}dt,.<br>$$</p><blockquote><p>您可以在 <a href="http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference">这里</a> 找到有关 <strong>LaTeX</strong> 数学表达式的更多信息。</p></blockquote><h2 id="UML-图"><a href="#UML-图" class="headerlink" title="UML 图"></a>UML 图</h2><p>您可以使用 <a href="https://mermaidjs.github.io/">Mermaid</a> 渲染 UML 图。例如，这将产生一个序列图：</p><pre><code class=" mermaid">sequenceDiagram爱丽丝 -&gt;&gt; 鲍勃: 你好鲍勃，你好吗？鲍勃--&gt;&gt;约翰: 约翰，你呢？鲍勃--x 爱丽丝: 我很好，谢谢！鲍勃-x 约翰: 我很好，谢谢！Note right of 约翰: 鲍勃想了很长&lt;br/&gt;很长的时间，太长了&lt;br/&gt;文本确实&lt;br/&gt;不能放在一行中。鲍勃--&gt;爱丽丝: 正在和 John 核对...爱丽丝-&gt;约翰: 是的……约翰，你好吗？</code></pre><p>这将产生一个流程图：</p><pre><code class=" mermaid">graph LRA[长方形] -- 链接文本 --&gt; B((圆形))A --&gt; C(圆角矩形)B --&gt; D&#123;菱形&#125;C --&gt; D</code></pre>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2023年度博客</title>
+    <link href="/2023/12/13/2023%E5%B9%B4%E5%BA%A6%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2023/12/13/2023%E5%B9%B4%E5%BA%A6%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2022年度博客</title>
+    <link href="/2023/12/12/2022%E5%B9%B4%E5%BA%A6%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2023/12/12/2022%E5%B9%B4%E5%BA%A6%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<p>前言:2022年度博客，一年一期系列，其实在写这篇博客的时候，快到2023年底了，考虑到2022年要素过多，非常有必要在写2023年度博客前完成补档。感谢互联网的各位朋友，话不多说，正片开始！</p><p>Chapter 1(禁闭，反思，调整)</p><p>2022年3月，进入大三下学期了，我还没想好我要什么，或者说我什么都想要。当然我也不会想到在年底，难以做出选择时幸福的烦恼。</p><p>2022年4月，一场突发事件介入，命运的齿轮开始转动。宿舍同楼层的同学被判定为密接，我们要被关在宿舍里8天，在10平方米的空间下，我有了充分的时间去思考一件事，选择什么样的赛道。出国？现在申请季还太早，来得及。保研或考研？变数太大，如果直接选择，是不是没利用好本科学历的价值，需要斟酌。思来想去，我觉得优先彻底提高工作方面的技能，在任何情况下，掌握后端开发技术，就是我的底气所在，我的基本盘。</p><p>当时我只对前端技术有所了解，对于后端框架和数据库一窍不通。我决定只给自己两个月的时间去学习完整套技术，当然不包括微服务。那两个月真的很疯狂，应该是我对技术最热爱，甚至说最狂热的时间了，以至于后面很久都没找到过那种心流了。我从早学到晚，除了吃饭，就在写代码，从图书馆写到麦当劳，从麦当劳写到宿舍。一个人满脑子都是并发，SpringBoot,数据库和中间件，现在回想起来也很滑稽。遇到bug也曾想过放弃的，但是都坚持修下来了，因为我真的希望在这个赛道上做下去，代码不会骗人，我每天都能感受进步。</p><p>2022年5月，学习进度超乎我的预想，我准备冲刺完最后的企业级项目，然后背八股文，刷算法，找实习了。当时有点不自信，我问一个朋友，我能找到实习吗？能找到工作吗？？他说我一定行，你是我见过最有执行力的人。春末夏初的武汉，已经很热了，完成了简历的制作，启动Boss开始投递。最开始投了几家小厂，挂掉了，那个时候互联网寒冬的妖风已经刮起来，我不管，逆风也要起飞。</p><p>Chapter 2(实习，重构，离职)</p><p>考虑到篇幅，我打算把我的实习经历和技术积累放在《工程师修炼之道》这篇博文单独详细讲述，什么，没找到？当然，我还没写哈哈哈。</p><p>上午，我在学校旁边的星巴克里背八股文（数据库里面乐观锁，悲观锁那些东西），随手投了一家鹅厂的子公司，下午直接去面试了，一轮笔试加两轮技术面，丝滑完成。当晚，在地铁上，我收到了第一个offer。第二天就去银行办好了工资卡，当时还在非常严格的封校，同学帮我打听摸索到了从体育场进出校的通道，问题解决。</p><p>周一的上午办好了入职流程，拿到了工牌，部署好开发环境，开始熟悉项目。</p><p>Chapter 3(留学申请，三板斧)</p><p>好烦啊，我不想写了。讲讲我申请了哪些学校，拿到了哪些offer吧。好吧，所有申请的学校都拿到offer了。</p><p>Australia</p><p>UNSW master of information technology<br>UQ   master of information technology<br>USyd master of software engineering</p><p>UK</p><p>Sheffield University master of information system<br>Newcastle University master of computer science</p><p>US</p><p>North Carolina State University master of computer engineering<br>Illinois Institute of Technology master of computer science<br>Oregon State University master of computer science</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>LeetCode上分保分指南</title>
+    <link href="/2023/12/12/LeetCode%E4%B8%8A%E5%88%86%E4%BF%9D%E5%88%86%E6%8C%87%E5%8D%97/"/>
+    <url>/2023/12/12/LeetCode%E4%B8%8A%E5%88%86%E4%BF%9D%E5%88%86%E6%8C%87%E5%8D%97/</url>
+    
+    <content type="html"><![CDATA[<p>Q：什么是LeetCode竞赛？</p><p>A：LeetCode竞赛分为周赛（北京时间每周日上午一场）和双周赛（北京时间每两周的周六夜间一场）。</p><p>Q：几道题？难不难？</p><p>A：周赛和双周赛都是4道题，目前道题型分布稳定为（1道easy｜2道mid｜1道hard）。</p><p>Q：我只会做一道easy，能上分吗？</p><p>A：如果你的竞赛分数在1350及以上，只做一道easy，在周赛场基本要掉分，在双周赛场，如果能合理控制AW数量，保证手速，不会掉分。</p><p>Q：什么是AW？怎么双周赛就不掉分了？</p><p>A：AW是指提交解答但不通过的情况，如果提交三次都不通过，第四次通过，本题就AW了三次。在LeetCode比赛中，AW就意味着罚时。你和小伙伴同样做对一道题，AW数量越高，排名就越低。双周赛由于参赛人数相对较少，如果你AW数量控制在一发，即使做一题（即获得3分），仍然可以排在3分组的前列，成功上分。</p><p>Q：什么是3分组？</p><p>A：前面说过，LeetCode分为1 easy,2 mid, 3 hard,对应的分数为3，4，5，6。也就意味着AK选手，即全部做对的人，在18分组，做对1 easy的选手，位于3分组。</p><p>Q：我是新选手，怎么在低段位保险上分？</p><p>A：保证自己获得至少7分，即做对前两题。</p><p>Q：我第二题都有可能做不出怎么办？每次做第一题这分数上不去啊？</p><p>A： 先做前两题，在本地调试，有把握在完成提交。记住，不提交是没事的，相当于没比赛，分数不会变动。一旦点击提交，就会记录排名了。推荐先提交第二题，能过再提交第一题。如果第二题都做不出，直接弃赛保分。</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2023/12/12/hello-world/"/>
+    <url>/2023/12/12/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>

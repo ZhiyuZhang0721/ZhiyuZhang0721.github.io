@@ -34,7 +34,7 @@
     <link href="/2023/12/13/PromptEngineering%E5%AF%B9%E7%94%9F%E6%B4%BB%E5%AF%B9%E6%94%B9%E5%8F%98/"/>
     <url>/2023/12/13/PromptEngineering%E5%AF%B9%E7%94%9F%E6%B4%BB%E5%AF%B9%E6%94%B9%E5%8F%98/</url>
     
-    <content type="html"><![CDATA[<p>先列举2023年使用了哪些生成式人工智能产品</p><p>Tools</p><p>ChatGPT line:</p><p>ChatGPT 3.5&#x2F;4.0</p><p>ChatGPT 国内镜像网站</p><p>Cursor</p><p>BOT插件</p><p>Google Bard</p><p>用途：论文 ｜ 大作业 ｜ 算法辅助 ｜ 文本格式转换 </p><p>我的使用方式技巧</p><p>Part A: 在生成长篇内容时，若出现篇幅受限（即gpt中断了内容的生成），你可以输入继续（continue）来使其完成对内容的输出。</p><p>Part B: 论文降重&#x2F;翻译，输入需要降重或翻译的内容，下达指令。</p><p>Part C: 将普通文本转化为Latex格式或Markdown语法。</p><p>Part D: 代替Git操作文档，输入需求完成复杂的rebase,merge操作。</p><p>Part E: 算法题辅助，这个非常锻炼Prompt技巧。若gpt给出了错误的答案，你可以尝试下列方法使其完成修正。1.给出案例中的输入和输出，让gpt理解处理的数值类型。2.强制让gpt换思路求解，要求gpt尝试动态规划或贪心算法。3.要求gpt降低时间复杂度或空间复杂度，达到转换求解思路的效果。</p>]]></content>
+    <content type="html"><![CDATA[<p>先列举2023年使用了哪些生成式人工智能产品</p><p>Tools</p><p>ChatGPT line:</p><p>ChatGPT 3.5&#x2F;4.0</p><p>ChatGPT 国内镜像网站</p><p>Cursor</p><p>BOT插件</p><p>Google Bard</p><p>用途：论文 ｜ 大作业 ｜ 算法辅助 ｜ 文本格式转换 </p><p>我的使用方式技巧</p><p>Part A: 在生成长篇内容时，若出现篇幅受限（即gpt中断了内容的生成），你可以输入继续（continue）来使其完成对内容的输出。</p><p>Part B: 论文降重&#x2F;翻译，输入需要降重或翻译的内容，下达指令。</p><p>Part C: 将普通文本转化为Latex格式或Markdown语法。</p><p>Part D: 代替Git操作文档，输入需求完成复杂的rebase,merge操作。</p><p>Part E: 算法题辅助，这个非常锻炼Prompt技巧。若gpt给出了错误的答案，你可以尝试下列方法使其完成修正。1.给出案例中的输入和输出，让gpt理解处理的数值类型。2.强制让gpt换思路求解，要求gpt尝试动态规划或贪心算法。3.要求gpt降低时间复杂度或空间复杂度，达到转换求解思路的效果。</p><p>Part F: 角色扮演。如果让GPT完成一道数学题的证明，可能它的证明过程是简陋的，不严谨的。但是如果告诉它扮演高校的数学系教授，或者强调自己是数学PhD,需要帮助，可能会得到详细且完备的证明过程。</p>]]></content>
     
     
     
